@@ -1,0 +1,7 @@
+C:\Users\EAGLE-3\source\repos\backend\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\EAGLE-3\source\repos\backend\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\EAGLE-3\source\repos\backend\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\EAGLE-3\source\repos\backend\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\EAGLE-3\source\repos\backend\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\EAGLE-3\source\repos\backend\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\EAGLE-3\source\repos\backend\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
